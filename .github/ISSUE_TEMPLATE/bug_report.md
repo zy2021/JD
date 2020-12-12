@@ -1,13 +1,4 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
-
----
-
----
 name: Bug 反馈
 about: 运行js脚本时出现bug
 title: ''
